@@ -39,6 +39,9 @@ export const light = createTheme({
       }
     } 
   },
+  typography: {
+    fontFamily: 'Rubik, sans-serif'
+  }
 });
 
 export const dark = createTheme({
